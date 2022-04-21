@@ -1,2 +1,2 @@
-# st.progress
-Day 21 of 30-Days-of-Streamlit Challenge
+# 🎈Streamlit : st.progress
+A progress bar widget app!
